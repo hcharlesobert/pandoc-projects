@@ -71,28 +71,34 @@ things, Admiral Otsy and his staff had agreed to the plan of action they
 wanted to deploy and wrapping up the review of the best options and set
 the first one into motion.\
 His defense force now had twelve Leonard Detwillers and twenty Sharks
-though they were out near the shipyard station or riding guard at the
-wormhole forts.\
+though they were out running patrols near the shipyard station or riding
+guard at the wormhole forts.\
 The invaders had come in with ridiculously low velocity and tracking at
 only 500 gravities, but that number was climbing and anyway, they were
 well beyond the hyper denial zone custom decreed as the orbitals for the
-planet Mannerheim. Stanly punched some buttons on his chair arm and a
-section of the incoming images began to center on his own display. They
-were still too far out to talk to without the lag and Stanley did not
-like to sit through the lag loop unless it served his purposes\
+planet Mannerheim, Ignore them he thought unless they crossed the limit
+then hit them with the torpedoes from platforms much closer to the path
+the invaders were on. Perhaps this was why they came in below the
+ecliptic was to catch standard placement for SDF pods ut of position.
+Cleaver if it is and, I think it is worth watching with some assets.
+Stanley punched some buttons on his chair arm and a section of the
+incoming images began to center on his own display. They were still too
+far out to talk to without the lag and Stanley did not like to sit
+through the lag loop unless it served his purposes.\
 Movement caught the corner of his eyes as the Admiral walked over to
-President Hurskainen chair with a light smile turning the edges of his
+President Hurskainen's chair with a light smile turning the edges of his
 mouth.
 
 "Sir, we have not made positive id yet and the have so far declined to
 ring the entry bell to announce their intentions. As you see, we have
 made preliminary assessment that we have a war party and considering the
-influence the Factor has with OFS, there is virtually zero chance this
-is a rogue operations by any fleet they know about so and it isn't
+influence that the Factor has with OFS, there is virtually zero chance
+this is a rogue operations by any fleet they know about so and it isn't
 likely that or a rogue Solly admiral either, it almost must be the Grand
 Alliance, but this is a lot sloppier than I would have expected them to
-bring with them. The wormhole picket has been called, and we expect not
-to see them till they open fire." He said with a smile.
+bring with them, unless this is a mixed unit working together for the
+first time. The wormhole picket has been called, and we expect not to
+see them till they open fire." He said with a smile.
 
 "Well, I would like to ignore them till such time as they cross our
 limit. I presume that the System Defense Platforms are being refocused
@@ -101,24 +107,50 @@ while we sneak into position". Stanley said, "One thing my father taught
 me was 'when you have time to kill, live it instead. Take a walk with me
 Admiral". They headed down a corridor to the Officers Wardroom where the
 planetary president conducted an inspection of the galley cleanliness
-and sampled a bowl of clam chowder before walking on to the NCO Wardroom
-and lastly to the enlisted ratings mess hall where he concluded his
-unannounced audit. Be honest, word got out by the time he was eating a
-slice of meatloaf with a baked tuber and sour cream the mess hall was
-filling up which made it perfect to make an impromptu speech.\
-"Ladies, and gentlemen, we still don't know who is coming for lunch
-without an invitation.\
-Each of you know what our System-Defense Force brings to picnic. These
-people are about to have a very bad day," he paused for a rousing cheer
-to work its way around the packed room then went on.
+and sampled a bowl of clam chowder from mid shift menu before walking on
+to the NCO Wardroom for an inspection and green salad with mint dressing
+and Glycyrrhiza glabra flavored greens and lastly to the enlisted
+ratings mess hall where he concluded his unannounced audit. Be honest,
+word got out by the time he was eating a slice of meatloaf with a baked
+tuber and sour cream the mess hall was filling up which made it perfect
+to make an impromptu speech.\
+Standing he said, "Ladies, and gentlemen, we still don't know who is
+coming for lunch without an invitation." Polite chuckles responded.\
+"Each of you know what our System-Defense Force brings to this picnic.
+These people are about to have a very bad day." he paused for a rousing
+cheer to work its way around the packed room then went on.
 
-"Our reinforcements made a timely arrival. Now we have the numbers with
-only a little luck we will smash superior tech for a chance the Solarian
-League Navy was not able to do. Let's show these bastards why they
-really don't want to screw with us." He left the mess hall to continuing
-cheering with High Admiral Osty a half step behind and to his right
-looking at his new boss and thinking it looked good for this round but,
-if these are Manty's even a 100% kill is only round one. Now he faced
-the potential to run out of missiles. Somehow, finding himself in the
-same position which he took such satisfaction in handing the Manty's was
-not nearly as satisifying.
+"Our reinforcements made a timely arrival. Now we have the numbers and
+with only a little luck we will smash ships and recover superior tech
+for a chance the Solarian League Navy was not able to do. Let's show
+these bastards why they really don't want to screw with us." He left the
+mess hall to continuing cheering with High Admiral Osty a half step
+behind and to his right looking at his new boss and thinking it looked
+good for this round but, if these are Manty's even a 100% kill is only
+round one. Now he faced the potential to run out of missiles. Somehow,
+finding himself in the same position which he took such satisfaction in
+handing to Manty's was not nearly as satisfying at this moment from his
+new perspective. The Manty's had been producing more missiles in a day
+when Oyster Bay went in than the RA could make in six months even now.\
+The Onion had never considered the GA would bring the war to this system
+nor that it would be so soon nor that it struck exactly at the primary
+arms production center. The exact weakest link and the most powerful
+point of the Renaissance Alliance within sufficient force. In the vast
+space behind his behind his eyes and between his ears, he pondered what
+he knew as he followed the President back to the Command Bunker. He
+could detect the positive mood shift in the tilt of the shoulders, the
+lift of the chin of everyone he passed, and an alarm bell began to ring
+deep inside of his mind. Whatever they thought they were looking at
+might not be what they thought they were seeing.
+
+Re-entering the Command Deck, he checked the main halo display and
+determined that his visitors had five minutes before turnover then a
+secondary that showed the estimated positions of System-Defense Force
+and Admiral Osty felt a flush of mixed emotions. On the one hand, pride
+that he was part of the Alignment in a critical role at a crucial time.
+On the other hand, nevertheless something new, it was so fresh a concept
+for him that he was unsure what it was. Perhaps that was the point, he
+was unsure. Something about this didn't feel right. He looked back at
+the plot and did the quick math to pinpoint the moment of inclusion and
+sat in his own Command Chair from here he signiled the Com Officer to
+hail the visitor and demandd idrntification and statement of intent
