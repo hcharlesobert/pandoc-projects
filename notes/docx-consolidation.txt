@@ -1,0 +1,97 @@
+-rwx------@ 1 hco  staff  152826 Jan 17  2024 ./Attempt to consolidate/01-17-2024.Helen Zilwicki. attempt to consolidate.docx
+-rwx------@ 1 hco  staff  140619 Jan 17  2024 ./Attempt to consolidate/12-22-2023.Helen Zilwicki. attempt to consolidate.docx
+-rwx------@ 1 hco  staff  146675 Dec 23  2023 ./Attempt to consolidate/12-23-2023.Helen Zilwicki. attempt to consolidate.docx
+-rwx------@ 1 hco  staff  151274 Dec 26  2023 ./Attempt to consolidate/12-24-2023.Helen Zilwicki. attempt to consolidate.docx
+-rwx------@ 1 hco  staff  151466 Dec 26  2023 ./Attempt to consolidate/12-26-2023.Helen Zilwicki. attempt to consolidate.docx
+-rwx------@ 1 hco  staff  154494 May  6  2024 ./Attempt to consolidate/2024-05-06.Helen Zilwicki. attempt to consolidate.docx
+-rwx------@ 1 hco  staff  155462 May  7  2024 ./Attempt to consolidate/2024-05-07.Helen Zilwicki. attempt to consolidate.docx
+-rwx------@ 1 hco  staff  157435 May  9  2024 ./Attempt to consolidate/2024-05-09.Helen Zilwicki. attempt to consolidate.docx
+-rwx------@ 1 hco  staff  156613 May 12  2024 ./Attempt to consolidate/2024-05-12.Helen Zilwicki. attempt to consolidate.docx
+-rwx------@ 1 hco  staff  157386 May 21  2024 ./Attempt to consolidate/2024-05-21.Helen Zilwicki. attempt to consolidate most work.docx
+-rwx------@ 1 hco  staff  130796 May 21  2024 ./Attempt to consolidate/2024-05-21.Helen Zilwicki. attempt to consolidate.docx
+-rwx------@ 1 hco  staff  113393 May 24  2024 ./Attempt to consolidate/2024-05-24.Helen Zilwicki. AutoRecovery save of attempt to consolidate most work.asd.docx
+-rwx------@ 1 hco  staff  114206 May 25  2024 ./Attempt to consolidate/2024-05-25.Helen Zilwicki. AutoRecovery save of attempt to consolidate most work.asd.docx
+-rwx------@ 1 hco  staff  113919 May 27  2024 ./Attempt to consolidate/2024-05-27.Helen Zilwicki. AutoRecovery save of attempt to consolidate most work.asd.docx
+-rwx------@ 1 hco  staff  116554 May 28  2024 ./Attempt to consolidate/2024-05-28.Helen Zilwicki. AutoRecovery save of attempt to consolidate most work.asd.docx
+-rwx------@ 1 hco  staff  127003 May 29  2024 ./Attempt to consolidate/2024-05-29.Helen Zilwicki. AutoRecovery save of attempt to consolidate most work.asd.docx
+-rwx------@ 1 hco  staff  153460 May 30  2024 ./Attempt to consolidate/2024-05-30.Helen Zilwicki. AutoRecovery save of attempt to consolidate most work.asd.docx
+-rwx------@ 1 hco  staff  128170 May 31  2024 ./Attempt to consolidate/2024-05-31.Helen Zilwicki. AutoRecovery save of attempt to consolidate most work.asd.docx
+-rwx------@ 1 hco  staff  130298 Jun  2  2024 ./Attempt to consolidate/2024-06-01.Helen Zilwicki. AutoRecovery save of attempt to consolidate most work.asd.docx
+-rwx------@ 1 hco  staff  130379 Jun  3  2024 ./Attempt to consolidate/2024-06-03.Helen Zilwicki. AutoRecovery save of attempt to consolidate most work.asd.docx
+-rwx------@ 1 hco  staff  131627 Jun  9  2024 ./Attempt to consolidate/2024-06-09.Helen Zilwicki. AutoRecovery save of attempt to consolidate most work.asd.docx
+-rwx------@ 1 hco  staff   22452 Jul  1  2025 ./Attempt to consolidate/Helen Zilwicki 2025/July - finished/2025-07-01.Manerheim invasion.docx
+-rwx------@ 1 hco  staff   22503 Jul  2  2025 ./Attempt to consolidate/Helen Zilwicki 2025/July - finished/2025-07-02.Manerheim invasion.docx
+-rwx------@ 1 hco  staff   22832 Jul  7  2025 ./Attempt to consolidate/Helen Zilwicki 2025/July - finished/2025-07-07.Manerheim invasion.docx
+-rwx------@ 1 hco  staff   22879 Jul 16  2025 ./Attempt to consolidate/Helen Zilwicki 2025/July - finished/2025-07-16.Manerheim invasion.docx
+-rwx------@ 1 hco  staff   22279 Jul  1  2025 ./Attempt to consolidate/Helen Zilwicki 2025/July - finished/Manerheim invasion.docx
+-rwx------@ 1 hco  staff   54583 Oct  9  2025 ./Attempt to consolidate/Helen Zilwicki 2025/July - finished/second look.10.docx
+-rwx------@ 1 hco  staff   36147 Aug 11  2025 ./Attempt to consolidate/Helen Zilwicki 2025/July - finished/second look.docx
+-rwx------@ 1 hco  staff   20009 Jul  1  2025 ./Attempt to consolidate/Helen Zilwicki 2025/Manerheim invasion.docx
+-rwx------@ 1 hco  staff   53630 Sep 13  2025 ./Attempt to consolidate/Helen Zilwicki 2025/second look.07.docx
+-rwx------@ 1 hco  staff  138688 Dec 22  2023 ./Attempt to consolidate/Helen Zilwicki. attempt to consolidate.docx
+-rwx------@ 1 hco  staff   41036 Aug 15  2025 ./Attempt to consolidate/Helen Zilwiki August/second look.02.docx
+-rwx------@ 1 hco  staff   44611 Aug 15  2025 ./Attempt to consolidate/Helen Zilwiki August/second look.03.docx
+-rwx------@ 1 hco  staff   45397 Aug 20  2025 ./Attempt to consolidate/Helen Zilwiki August/second look.04.docx
+-rwx------@ 1 hco  staff   50221 Sep  2  2025 ./Attempt to consolidate/Helen Zilwiki August/second look.05.docx
+-rwx------@ 1 hco  staff   50959 Sep 13  2025 ./Attempt to consolidate/Helen Zilwiki August/second look.07.docx
+-rwx------@ 1 hco  staff   53840 Sep 13  2025 ./Attempt to consolidate/Helen Zilwiki August/second look.08.docx
+-rwx------@ 1 hco  staff   53920 Oct  9  2025 ./Attempt to consolidate/Helen Zilwiki August/second look.09.docx
+-rwx------@ 1 hco  staff   50840 Sep  2  2025 ./Attempt to consolidate/second look.06.docx
+-rwx------@ 1 hco  staff  137181 Dec 20  2023 ./Hellen 12-12-2023. exit six.docx
+-rwx------@ 1 hco  staff   32354 Jul 23  2023 ./Hellen Jube 8 22.docx
+-rwx------@ 1 hco  staff  119211 Jun 17  2023 ./Hellen June 2022 edit three.docx
+-rwx------@ 1 hco  staff   30869 Jun 29  2022 ./Hellen June 2022 edit two.docx
+-rwx------@ 1 hco  staff  134722 Dec  7  2023 ./Hellen June 2023-12-06. edit five.1 6 30.docx
+-rwx------@ 1 hco  staff  136764 Dec 11  2023 ./Hellen June 2023-12-07. edit five.1 6 30.docx
+-rwx------@ 1 hco  staff   23814 Jun 18  2022 ./Hellen June late.docx
+-rwx------@ 1 hco  staff   21795 May 31  2022 ./Hellen.docx
+-rwx------@ 1 hco  staff  47521 May 13  2025 ./2025-05-13.Helen Zilwicki prismatic spectrum. attempt to consolidate.odt
+-rwx------@ 1 hco  staff  69807 Jul 24  2025 ./2025-07-24.Helen.odt
+-rwx------@ 1 hco  staff  75083 Aug  7  2025 ./2025-08-07. Helen.odt
+-rwx------@ 1 hco  staff  86384 Feb  2  2025 ./Attempt to consolidate/Helen Zilwicki 2025/2025-02-02.Helen Zilwicki. attempt to consolidate.odt
+-rwx------@ 1 hco  staff  89538 Feb  3  2025 ./Attempt to consolidate/Helen Zilwicki 2025/2025-02-03.Helen Zilwicki. attempt to consolidate.odt
+-rwx------@ 1 hco  staff  90051 Mar  5  2025 ./Attempt to consolidate/Helen Zilwicki 2025/2025-02-07.Helen Zilwicki. attempt to consolidate.odt
+-rwx------@ 1 hco  staff  83993 Feb 11  2025 ./Attempt to consolidate/Helen Zilwicki 2025/2025-02-11.Helen Zilwicki. attempt to consolidate.odt
+-rwx------@ 1 hco  staff  84465 Feb 13  2025 ./Attempt to consolidate/Helen Zilwicki 2025/2025-02-13.Helen Zilwicki. attempt to consolidate.odt
+-rwx------@ 1 hco  staff  87841 Feb 15  2025 ./Attempt to consolidate/Helen Zilwicki 2025/2025-02-15.Helen Zilwicki. attempt to consolidate.odt
+-rwx------@ 1 hco  staff  92580 Mar 12  2025 ./Attempt to consolidate/Helen Zilwicki 2025/2025-03-12.Helen Zilwicki. attempt to consolidate.odt
+-rwx------@ 1 hco  staff  91829 Mar 14  2025 ./Attempt to consolidate/Helen Zilwicki 2025/2025-03-14.Helen Zilwicki. attempt to consolidate.odt
+-rwx------@ 1 hco  staff  91933 Mar 18  2025 ./Attempt to consolidate/Helen Zilwicki 2025/2025-03-18.Helen Zilwicki. attempt to consolidate.odt
+-rwx------@ 1 hco  staff  92519 Mar 19  2025 ./Attempt to consolidate/Helen Zilwicki 2025/2025-03-19.Helen Zilwicki. attempt to consolidate.odt
+-rwx------@ 1 hco  staff  93115 Mar 22  2025 ./Attempt to consolidate/Helen Zilwicki 2025/2025-03-22.Helen Zilwicki. attempt to consolidate.odt
+-rwx------@ 1 hco  staff  93176 Mar 24  2025 ./Attempt to consolidate/Helen Zilwicki 2025/2025-03-24.Helen Zilwicki. attempt to consolidate.odt
+-rwx------@ 1 hco  staff  44118 Mar 30  2025 ./Attempt to consolidate/Helen Zilwicki 2025/2025-03-30.Helen Zilwicki. attempt to consolidate.doc.odt
+-rwx------@ 1 hco  staff  44568 Mar 31  2025 ./Attempt to consolidate/Helen Zilwicki 2025/2025-03-31.Helen Zilwicki. attempt to consolidate.doc.odt
+-rwx------@ 1 hco  staff  44632 Apr 22  2025 ./Attempt to consolidate/Helen Zilwicki 2025/2025-04-22.Helen Zilwicki. attempt to consolidate.doc.odt
+-rwx------@ 1 hco  staff  44964 May  7  2025 ./Attempt to consolidate/Helen Zilwicki 2025/2025-05-07.Helen Zilwicki prismatic spectrum. attempt to consolidate.doc.odt
+-rwx------@ 1 hco  staff  45845 May  9  2025 ./Attempt to consolidate/Helen Zilwicki 2025/2025-05-09.Helen Zilwicki prismatic spectrum. attempt to consolidate.odt
+-rwx------@ 1 hco  staff  47434 May 12  2025 ./Attempt to consolidate/Helen Zilwicki 2025/2025-05-12.Helen Zilwicki prismatic spectrum. attempt to consolidate.odt
+-rwx------@ 1 hco  staff  48681 May 15  2025 ./Attempt to consolidate/Helen Zilwicki 2025/2025-05-15.Helen Zilwicki prismatic spectrum. attempt to consolidate.odt
+-rwx------@ 1 hco  staff  48760 May 21  2025 ./Attempt to consolidate/Helen Zilwicki 2025/2025-05-21.Helen Zilwicki prismatic spectrum. attempt to consolidate.odt
+-rwx------@ 1 hco  staff  49060 May 25  2025 ./Attempt to consolidate/Helen Zilwicki 2025/2025-05-25.Helen Zilwicki prismatic spectrum. attempt to consolidate.odt
+-rwx------@ 1 hco  staff  51155 May 29  2025 ./Attempt to consolidate/Helen Zilwicki 2025/2025-05-29.Helen Zilwicki prismatic spectrum. attempt to consolidate.odt
+-rwx------@ 1 hco  staff  51624 May 31  2025 ./Attempt to consolidate/Helen Zilwicki 2025/2025-05-30.Helen Zilwicki prismatic spectrum. attempt to consolidate.odt
+-rwx------@ 1 hco  staff  53008 Jun  1  2025 ./Attempt to consolidate/Helen Zilwicki 2025/2025-06-01.Helen Zilwicki prismatic spectrum. attempt to consolidate.odt
+-rwx------@ 1 hco  staff  58088 Jun  3  2025 ./Attempt to consolidate/Helen Zilwicki 2025/2025-06-02.Helen Zilwicki prismatic spectrum. attempt to consolidate.odt
+-rwx------@ 1 hco  staff  58493 Jun  3  2025 ./Attempt to consolidate/Helen Zilwicki 2025/2025-06-03.Helen Zilwicki prismatic spectrum. attempt to consolidate.odt
+-rwx------@ 1 hco  staff  58165 Jun  4  2025 ./Attempt to consolidate/Helen Zilwicki 2025/2025-06-04.Helen Zilwicki prismatic spectrum. attempt to consolidate.odt
+-rwx------@ 1 hco  staff  59129 Jun 15  2025 ./Attempt to consolidate/Helen Zilwicki 2025/2025-06-15.Helen Zilwicki prismatic spectrum. attempt to consolidate.odt
+-rwx------@ 1 hco  staff  58566 Jun 16  2025 ./Attempt to consolidate/Helen Zilwicki 2025/2025-06-16.Helen Zilwicki prismatic spectrum. attempt to consolidate.odt
+-rwx------@ 1 hco  staff  59319 Jun 24  2025 ./Attempt to consolidate/Helen Zilwicki 2025/2025-06-24.Helen Zilwicki prismatic spectrum. attempt to consolidate.odt
+-rwx------@ 1 hco  staff  62470 Jun 29  2025 ./Attempt to consolidate/Helen Zilwicki 2025/2025-06-27 recovered Helen.odt
+-rwx------@ 1 hco  staff  62070 Jun 27  2025 ./Attempt to consolidate/Helen Zilwicki 2025/2025-06-27.Helen Zilwicki .odt
+-rwx------@ 1 hco  staff  59182 Jun 27  2025 ./Attempt to consolidate/Helen Zilwicki 2025/2025-06-27.Helen Zilwicki prismatic spectrum. attempt to consolidate.odt
+-rwx------@ 1 hco  staff  63113 Jun 30  2025 ./Attempt to consolidate/Helen Zilwicki 2025/July - finished/2025-06-30  Helen.odt
+-rwx------@ 1 hco  staff  64484 Jul  2  2025 ./Attempt to consolidate/Helen Zilwicki 2025/July - finished/2025-07-02  Helen.odt
+-rwx------@ 1 hco  staff  65798 Jul  5  2025 ./Attempt to consolidate/Helen Zilwicki 2025/July - finished/2025-07-03  Helen.odt
+-rwx------@ 1 hco  staff  66636 Jul  5  2025 ./Attempt to consolidate/Helen Zilwicki 2025/July - finished/2025-07-05  Helen.odt
+-rwx------@ 1 hco  staff  68007 Jul  6  2025 ./Attempt to consolidate/Helen Zilwicki 2025/July - finished/2025-07-06  Helen.odt
+-rwx------@ 1 hco  staff  68518 Jul 16  2025 ./Attempt to consolidate/Helen Zilwicki 2025/July - finished/2025-07-16.Helen.odt
+-rwx------@ 1 hco  staff  69118 Jul 23  2025 ./Attempt to consolidate/Helen Zilwicki 2025/July - finished/2025-07-23.Helen.odt
+-rwx------@ 1 hco  staff  71313 Jul 25  2025 ./Attempt to consolidate/Helen Zilwicki 2025/July - finished/2025-07-25. Helen.odt
+-rwx------@ 1 hco  staff  73096 Aug  3  2025 ./Attempt to consolidate/Helen Zilwiki August/2025-07-25. Helen.odt
+-rwx------@ 1 hco  staff  75370 Aug  8  2025 ./Attempt to consolidate/Helen Zilwiki August/2025-08-08. Helen.odt
+-rwx------@ 1 hco  staff  80913 Jan 10  2026 ./Attempt to consolidate/Helen Zilwiki August/2025-08-09. Helen.odt
+-rw-r--r--@ 1 hco  staff  82292 Jan 12  2026 ./Attempt to consolidate/Helen Zilwiki August/2026 Mac files/2025-08-09. Helen.01-12-2026.odt
+-rw-r--r--@ 1 hco  staff  81115 Jan 11  2026 ./Attempt to consolidate/Helen Zilwiki August/2026 Mac files/2026-1-11.macbook 2025-08-09. Helen.odt
+-rw-r--r--@ 1 hco  staff  81026 Jan 10  2026 ./Attempt to consolidate/Helen Zilwiki August/2026 Mac files/2026-macbook 2025-08-09. Helen.odt
